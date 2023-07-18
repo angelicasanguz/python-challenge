@@ -2,12 +2,12 @@
 BootCampProjects
 #Documents in python-challenge with two main folders called PyBank and PyPoll
 python-challenge 
-	PyBank/Analysis/Resuslts.txt		        Document with results of Financial Analysis
-	      /Resources/budget_data.csv	      Document .cvs with information to analize.
-        main.py				                    Document with the python script with Financial Analysis solution.
-	PyPoll/Resources/election_data.cvs   	  Document .cvs with information to analize.
-        Analysis.txt             		      Document with results of Eleccion.
-        mainP.py		       		            Document with the python script with Eleccion solution.
+PyBank/Analysis/Resuslts.txt		      Document with results of Financial Analysis
+      /Resources/budget_data.csv	      Document .cvs with information to analize.
+      main.py				      Document with the python script with Financial Analysis solution.
+PyPoll/Resources/election_data.cvs   	      Document .cvs with information to analize.
+      Analysis.txt             		      Document with results of Eleccion.
+      mainP.py		       		      Document with the python script with Eleccion solution.
 
 
 ##Instructions
