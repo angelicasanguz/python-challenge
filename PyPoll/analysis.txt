@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.19043.1706]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\osvar\Desktop\Boot_Camp_Data_Analyst\ChallengeModule3\python-challenge\PyPoll>C:/Users/osvar/AppData/Local/Programs/Python/Python311/python.exe c:/Users/osvar/Desktop/Boot_Camp_Data_Analyst/ChallengeModule3/python-challenge/PyPoll/mainP.py
+
+Election Results
+-----------------------------------
+Total Votos: 369711
+-----------------------------------
+Charles Casper Stockham: 23.049 % (85213) Votes
+Diana DeGette: 73.812 % (272892) Votes
+Raymon Anthony Doane: 3.139 % (11606) Votes
+-----------------------------------
+Winner: Diana DeGette
+-----------------------------------
+
+C:\Users\osvar\Desktop\Boot_Camp_Data_Analyst\ChallengeModule3\python-challenge\PyPoll>
